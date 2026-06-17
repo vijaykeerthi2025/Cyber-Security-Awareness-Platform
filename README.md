@@ -135,7 +135,7 @@ Installation and Setup
 
 Step 1: Clone Repository
 
-git clone https://github.com/yourusername/CyberSecurityAwarenessPlatform.git
+git clone https://github.com/vijaykeerthi2025/Cyber-Security-Awareness-Platform.git
 
 Step 2: Open Project
 
